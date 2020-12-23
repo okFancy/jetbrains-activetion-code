@@ -17,7 +17,8 @@ UD5T6WF5YW-eyJsaWNlbnNlSWQiOiJVRDVUNldGNVlXIiwibGljZW5zZWVOYW1lIjoi5rC45LmF5YWN6
 ```
 
 如果激活码失效，请从上面的链接或公众号获取。
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+
+![image](https://github.com/okFancy/jetbrains-activetion-code/blob/main/weixin_qr.jpg)
 
 
 
