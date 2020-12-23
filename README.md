@@ -3,4 +3,4 @@ jetbrains全家桶激活码动态生成webstorm激活码,Intellij idea激活码,
 
 动态生成激活码链接网站：
 
-[动态生成激活码网站ok8809.com](ok8809.com)
+[动态生成激活码网站ok8809.com](www.ok8809.com)
